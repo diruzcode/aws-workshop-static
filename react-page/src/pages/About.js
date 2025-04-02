@@ -52,7 +52,7 @@ const About = () => {
         }}>
           <h3 style={{ color: '#232f3e', marginBottom: '0.5rem' }}>2. Aplicación React (SPA)</h3>
           <p>
-            Una aplicación de una sola página (SPA) construida con React que requiere configuración 
+            HOLA DESDE CHILE (SPA) construida con React que requiere configuración 
             especial para manejar correctamente las rutas dinámicas utilizando CloudFront Functions.
           </p>
         </div>
